@@ -1,0 +1,10 @@
+{
+  "modelVersion": "6.1.0",
+  "name": "sixchessgame",
+  "version": "1.0.0",
+  "description": "六子棋单机小游戏 - HarmonyOS应用",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
